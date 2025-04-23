@@ -1,10 +1,10 @@
-package samplemavenpackage;
+package Final;
 
-public class Samplemaven {
+public class Finalchildclass extends Finalparentclass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hello");
+
 	}
 
 }
